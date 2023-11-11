@@ -1,5 +1,3 @@
-import java.awt.desktop.PrintFilesEvent
-
 fun ex1() {
     print("Введите количество строк: ")
     val rows = readLine()!!.toInt()
